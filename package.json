@@ -1,0 +1,15 @@
+{
+  "name": "Isobar",
+  "version": "0.0.1",
+  "description": "using canvas to draw Isobar lines and surface.",
+  "main": "script/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Isobar",
+    "canvas"
+  ],
+  "author": "pingoor <pingoor@gmail.com>",
+  "license": "MIT"
+}

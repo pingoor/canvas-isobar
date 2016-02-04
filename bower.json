@@ -1,0 +1,28 @@
+{
+  "name": "Isobar",
+  "version": "0.0.1",
+  "authors": [
+    "pingoor <pingoor@gmail.com>"
+  ],
+  "description": "using canvas to draw Isobar lines and surfaces",
+  "main": "script/index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Isobar",
+    "canvas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}
